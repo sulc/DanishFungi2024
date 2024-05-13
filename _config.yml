@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Danish Fungi 2024 (DF24)
+description: Fungi classification from images and metadata
+github:
+  zip_url: http://example.com/download.zip
+
