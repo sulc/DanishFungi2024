@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 logo: /assets/img/DanishFungi2024.png
-title: Danish Fungi 2024 (DF24)
-description: Fungi classification from images and metadata
+title: Danish Fungi 2024
+description: Dataset for fungi classification from images and metadata
 show_downloads: true
 github:
   zip_url: https://cmp.felk.cvut.cz/~sulcmila/DanishFungi2024.zip
